@@ -198,7 +198,10 @@ input{
     color: #222A59;
     margin: 0 auto;
     text-align: center;
+    padding:30px;
 }
+
+
 
 footer p {
     background-color: #363973;
@@ -208,4 +211,9 @@ footer p {
     color:  white;
     font-weight: 500;
 
+}
+
+p{
+	text-align: center;
+	margin:0 auto;
 }
